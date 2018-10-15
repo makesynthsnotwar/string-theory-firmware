@@ -1,2 +1,2 @@
-# string-theory-firmware
+# StringTheory Firmware
 Arduino firmware for the StringTheory Eurorack Module
